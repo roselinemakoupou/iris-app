@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Titre de l'application
+#Titre de l'application
 st.title("Prédiction du nom de la fleur")
 
 # Instructions
